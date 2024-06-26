@@ -1,0 +1,68 @@
+{
+  "login": "Увійти",
+  "register": "Реєстрація",
+  "registerAdmin": "Реєстрація адміністратора",
+  "username": "Юзернейм",
+  "Username": "Юзернейм",
+  "Password": "Пароль",
+  "email": "Поштова скринька",
+  "name": "Ім'я",
+  "surname": "Прізвище",
+  "patronymic": "По-батькові",
+  "password": "Пароль",
+  "sex": "Стать",
+  "companyID": "Компанія",
+  "companyName": "Назва компанії",
+  "description": "Опис",
+  "legalLimit": "Юридичний ліміт",
+  "location": "Вибрати місце",
+  "country": "Країна",
+  "city": "Місто",
+  "address": "Адреса",
+  "postCode": "Поштовий індекс",
+  "role": "Роль",
+  "noCompany": "Без компанії",
+  "companiesManagement": "Управління компаніями",
+  "companyNameLabel": "Назва компанії",
+  "descriptionLabel": "Опис",
+  "legalLimitLabel": "Юридичний ліміт",
+  "locationLabel": "Вибрати місце",
+  "createCompany": "Створити компанію",
+  "buttons": {
+    "createCompany": "Створити компанію",
+    "createLocation": "Створити місце",
+    "createUser": "Створити користувача",
+    "backupData": "Резервне копіювання даних",
+    "restoreData": "Відновити дані",
+    "exportData": "Експортувати дані"
+  },
+  "notifications": {
+    "withinLegalLimit": "Ваш рівень алкоголю в межах допустимого."
+  },
+  "titles": {
+    "companiesManagement": "Управління компаніями",
+    "locationsManagement": "Управління місцями",
+    "testResults": "Результати тестів",
+    "notifications": "Сповіщення",
+    "dataManagement": "Управління даними"
+  },
+  "home": {
+    "welcome": "Ласкаво просимо",
+    "description": "Це домашня сторінка"
+  },
+  "user": {
+    "dashboard": "Панель користувача",
+    "testResults": "Результати тестів",
+    "notifications": "Сповіщення",
+    "accessControls": "Контроль доступу"
+  },
+  "admin": {
+    "dashboard": "Панель адміністратора",
+    "companies": "Компанії",
+    "locations": "Локації",
+    "users": "Користувачі",
+    "testResults": "Результати тестів",
+    "notifications": "Сповіщення",
+    "dataManagement": "Управління даними"
+  }
+}

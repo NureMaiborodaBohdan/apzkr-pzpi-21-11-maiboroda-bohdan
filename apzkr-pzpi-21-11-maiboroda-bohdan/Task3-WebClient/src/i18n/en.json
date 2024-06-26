@@ -1,0 +1,68 @@
+{
+  "login": "Login",
+  "register": "Register",
+  "registerAdmin": "Register Admin",
+  "username": "Username",
+  "Username": "Username",
+  "Password": "Password",
+  "email": "Email",
+  "name": "Name",
+  "surname": "Surname",
+  "patronymic": "Patronymic",
+  "password": "Password",
+  "sex": "Sex",
+  "companyID": "Company",
+  "companyName": "Company Name",
+  "description": "Description",
+  "legalLimit": "Legal Limit",
+  "location": "Select Location",
+  "country": "Country",
+  "city": "City",
+  "address": "Address",
+  "postCode": "Post Code",
+  "role": "Role",
+  "noCompany": "No Company",
+  "companiesManagement": "Companies Management",
+  "companyNameLabel": "Company Name",
+  "descriptionLabel": "Description",
+  "legalLimitLabel": "Legal Limit",
+  "locationLabel": "Select Location",
+  "createCompany": "Create Company",
+  "buttons": {
+    "createCompany": "Create Company",
+    "createLocation": "Create Location",
+    "createUser": "Create User",
+    "backupData": "Backup Data",
+    "restoreData": "Restore Data",
+    "exportData": "Export Data"
+  },
+  "notifications": {
+    "withinLegalLimit": "Your alcohol level is within the legal limit."
+  },
+  "titles": {
+    "companiesManagement": "Companies Management",
+    "locationsManagement": "Locations Management",
+    "testResults": "Test Results",
+    "notifications": "Notifications",
+    "dataManagement": "Data Management"
+  },
+  "home": {
+    "welcome": "Welcome",
+    "description": "This is the home page"
+  },
+  "user": {
+    "dashboard": "User Dashboard",
+    "testResults": "Test Results",
+    "notifications": "Notifications",
+    "accessControls": "Access Controls"
+  },
+  "admin": {
+    "dashboard": "Admin Dashboard",
+    "companies": "Companies",
+    "locations": "Locations",
+    "users": "Users",
+    "testResults": "Test Results",
+    "notifications": "Notifications",
+    "dataManagement": "Data Management"
+  }
+}
